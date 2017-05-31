@@ -74,7 +74,7 @@
     "gl": "^4.0.3",
     "immutable": "^3.8.1",
     "jsdom": "^9.11.0",
-    "luma.gl": "4.0.0-alpha.5",
+    "luma.gl": ">=4.0.0-alpha.7",
     "module-alias": "^2.0.0",
     "nyc": "^10.2.0",
     "path-exists-cli": "^1.0.0",
@@ -84,6 +84,7 @@
     "react-addons-test-utils": "^15.4.2",
     "react-dom": "^15.4.0",
     "reify": "^0.4.4",
+    "source-map-loader": "^0.2.1",
     "spy": "^1.0.0",
     "tap-browser-color": "^0.1.2",
     "tape": "^4.5.1",
@@ -95,7 +96,7 @@
     "webpack-dev-server": "^2.4.0"
   },
   "peerDependencies": {
-    "luma.gl": ">=3.x",
+    "luma.gl": ">=4.0.0-alpha.7",
     "react": "0.14.x - 15.x",
     "react-dom": "0.14.x - 15.x"
   },
